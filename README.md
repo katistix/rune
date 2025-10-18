@@ -36,7 +36,7 @@ heavily inspired by [Uxn by Hundred Rabbits](https://100r.co/site/uxn.html). the
 
 #### future goals
 
-right now, the only way to program the VM is by hardcoding the *bytecode* in the `vm.go` file. but in the future i will implement:
+right now, the only way to program the VM is by hardcoding the *bytecode* in the `main.go` file. but in the future i will implement:
 
 - **assembler**: so you can write assembly instead of raw bytecode
 - **better debugging**: stack inspection, step-through execution
